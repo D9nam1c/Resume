@@ -1,0 +1,6 @@
+<!-- Languages Section can be in the same file or in a separate `languages.md` -->
+
+## Languages I Know
+I am proficient in English, Ukrainian, and Russian, having developed each language through distinct stages of my education and personal life. Ukrainian has been my native tongue since childhood, while Russian became a strong complement during my school years and regional interactions. English proficiency emerged through academic studies, international collaborations, and technical research, enabling me to engage confidently with global communities.
+
+This multilingual ability enhances both written and verbal communication across diverse settings. In English, I prepare precise technical documentation and deliver presentations to international audiences. In Ukrainian and Russian, I facilitate effective teamwork with regional colleagues, mentor students, and contribute to local open-source initiatives. By selecting the appropriate language for each context, I ensure clarity, build rapport, and foster productive collaboration.
