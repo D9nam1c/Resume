@@ -1,4 +1,4 @@
-### 🛠️ Personal Projects
+# 🛠️ Personal Projects
 
 #### 🔋 Mini Lab Power Supply (Mini LBP v2.0)
 
