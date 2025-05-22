@@ -1,2 +1,2 @@
-* [Home](home.md)
-* [Contact](links.md)
+* [Home](home)
+* [Contact](links)
