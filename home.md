@@ -13,7 +13,8 @@ Hello! I’m Volodymyr, a computer science student at Virginia Tech with hands-o
   High level being C, C++, Java, and Python and low level being Assembly.
 - **Embedded & Soldering Projects**
   Built a custom mini laboratory power supply with several voltage outputs.
-  Built a custom alarm clock featuring weather and CO₂ sensors, inspired by DIY electronics tutorials.  
+  Built a custom alarm clock featuring weather and CO₂ sensors, inspired by DIY electronics tutorials.
+  (See [Projects](prjs) section for more details)
 - **Back-end Development**  
   Comfortable with C++, Python, and Java; experience developing and debugging multi-tier applications.  
 - **Collaborative Development:** 

@@ -1,5 +1,4 @@
 - [Home](home)
-- [Education](education)
 - [Languages](languages)
 - [Projects](prjs)
 - [Work](work)
