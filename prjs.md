@@ -40,7 +40,7 @@ This version features three independent outputs: a variable **1.25–30V 5A** re
 
 ![MeteoClock](Images/Знімок%20екрана%202025-05-22%20154218.png)
 
-A feature-rich, microcontroller-based alarm clock that displays real-time environmental data alongside the current time. Inspired by [AlexGyver’s MeteoClock project](https://alexgyver.ru/meteoclock/), this device combines multiple sensors and a graphical display to monitor indoor air quality and weather conditions.
+A microcontroller-based alarm clock that displays real-time environmental data alongside the current time. Inspired by [AlexGyver’s MeteoClock project](https://alexgyver.ru/meteoclock/), this device combines multiple sensors and a graphical display to monitor indoor air quality and weather conditions.
 
 **What I built:**
 - A smart clock powered by a **DS3231 RTC module** for accurate timekeeping, enhanced with a **BME280 sensor** (temperature, humidity, pressure) and an **MH-Z19B sensor** for CO₂ monitoring.
