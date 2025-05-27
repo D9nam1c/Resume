@@ -1,21 +1,31 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Resume</title>
-  </head>
-  <body>
-    <div id="app"></div>
-    <script>
-      window.$docsify = {
-        name: 'My Resume',
-        repo: 'https://github.com/D9nam1c/Resume',
-        loadNavbar: true,
-        loadSidebar: true,
-        subMaxLevel: 2
-      };
-    </script>
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Volodymyr's Résumé</title>
+  <!-- optional: your favicon, theme, etc. -->
+</head>
+<body>
+  <!-- where your content goes -->
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+      name: 'Your Name',
+      repo: 'D9nam1c/Resume',
+      // point to your navbar/sidebar files:
+      loadNavbar: '_navbar.md',
+      loadSidebar: '_sidebar.md',
+      // whichever page you want as “home”
+      homepage: 'home.md',
+      // any other options you like:
+      coverpage: true,
+      mergeNavbar: true,
+      onlyCover: false,
+      subMaxLevel: 3,
+    }
+  </script>
+  <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
+</body>
 </html>
