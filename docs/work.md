@@ -1,7 +1,7 @@
 <!--Job Experience
 UNDER CONSTRUCTION-->
 
-<!--
+
 # Internship – SCUTTLE Robotics  
 **Firmware Integration Intern** | June 2025 – Present
 
@@ -18,4 +18,4 @@ At SCUTTLE Robotics, I’m collaborating with the controls and hardware teams to
 - **Cross-Functional Collaboration & Documentation**  
   Coordinated with electrical engineers on pin mappings, participated in agile stand-ups, and authored detailed integration guides and release notes for future firmware rollouts.  
 
-This internship has deepened my expertise in embedded systems, real-time constraints, and multidisciplinary teamwork within a cutting-edge robotics environment.  -->
+This internship has deepened my expertise in embedded systems, real-time constraints, and multidisciplinary teamwork within a cutting-edge robotics environment.
